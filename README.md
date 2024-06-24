@@ -1,4 +1,4 @@
-# GRACkLe at Trinity University
+# `GRACkLe` at Trinity University
 
 🧊 🏔️ 🪨 🏜️ 🧪 ⚛️ ⏳ 🧮 🌟 ☄️ 🪐
 

@@ -8,5 +8,5 @@ Overseen by Prof. [Graham H. Edwards](https://grahamedwards.github.io), lab memb
 
 ## Contents
 1. [GRACkLe Website](https://grackletu.github.io)
-2. Standard Operating Procedures (in development)
-3. Expectations (in development)
+2. [Standard Operating Procedures](https://github.com/grackletu/sop) (in development)
+3. Researcher Expectations (coming soon)
